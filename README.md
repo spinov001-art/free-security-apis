@@ -86,6 +86,9 @@ security_check("185.220.101.1")
 - [PyPI Supply Chain Checker](https://github.com/spinov001-art/pypi-supply-chain-checker)
 - [Awesome Free APIs](https://github.com/spinov001-art/awesome-free-apis-2026) — 200+ free APIs
 - [Awesome Web Scraping](https://github.com/spinov001-art/awesome-web-scraping)
+- [SSL Certificate Monitor](https://github.com/spinov001-art/ssl-certificate-monitor) — Monitor SSL expiry, subdomain discovery
+- [OSV Vulnerability Scanner](https://github.com/spinov001-art/osv-vulnerability-scanner) — Scan dependencies with Google OSV
+- [URL Malware Checker](https://github.com/spinov001-art/url-malware-checker) — Check URLs against URLhaus
 
 ## License
 
